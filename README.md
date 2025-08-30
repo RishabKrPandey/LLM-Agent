@@ -154,13 +154,3 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 * [AI Pipe](https://aipipe.org/) for proxy API workflows
 * OpenAI/Anthropic/Google for LLM providers
 * Bootstrap for UI components
-
----
-
-🔮 **Next Steps**
-
-* Add **conversation persistence** with IndexedDB/localStorage.
-* Enable **streaming token-by-token responses**.
-* Expand tools: file parsing, charting, SQL, etc.
-
----
